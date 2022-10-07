@@ -4,7 +4,7 @@ Predicting the energy output of wind turbine based on weather condition
 
 
 #### Project Domain
-Data Analytics
+Applied Data Science
 
 #### Team Name
 Vampires
